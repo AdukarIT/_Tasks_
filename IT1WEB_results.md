@@ -10,6 +10,7 @@
 * [Кирилл Клещенко](https://github.com/AdukarIT/KleshchenkoKV)
 * [Евгений Струневский](https://github.com/AdukarIT/StrunevskiEV)
 * [Олег Табачников](https://github.com/AdukarIT/TabachnikovOR)
+* [Алексей Крукович](https://github.com/AdukarIT/)
 
 
 ## Практика 1. [Введение в веб-разработку](task1.pdf)
