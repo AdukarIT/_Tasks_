@@ -23,4 +23,4 @@
 
 ## 5. Продвинутый HTML
 [Презентация](https://docs.google.com/presentation/d/1DOHVcTDGGR2L0QjvXatpW5fyryKqAgU9T7Z7doGmSlc)
-[Домашнее задание](https://)
+[Домашнее задание](HTML-advance.md)
