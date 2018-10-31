@@ -20,4 +20,7 @@
 
 ## 4. Формы. Ссылочные протоколы
 [Презентация](https://docs.google.com/presentation/d/11sfdZrM2wLuw6472JCh6ijq3uD19o1rWXlQNB0rqbOw)
-Задание: разработать форму обратной связи.
+
+## 5. Продвинутый HTML
+[Презентация](https://docs.google.com/presentation/d/1DOHVcTDGGR2L0QjvXatpW5fyryKqAgU9T7Z7doGmSlc)
+[Домашнее задание](https://)
