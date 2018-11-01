@@ -10,7 +10,7 @@
 * [Кирилл Клещенко](https://github.com/AdukarIT/KleshchenkoKV)
 * [Евгений Струневский](https://github.com/AdukarIT/StrunevskiEV)
 * [Олег Табачников](https://github.com/AdukarIT/TabachnikovOR)
-* [Алексей Крукович](https://github.com/AdukarIT/)
+* [Алексей Крукович](https://github.com/AdukarIT/KrukovichAV)
 
 
 ## Практика 1. [Введение в веб-разработку](task1.pdf)
@@ -25,6 +25,7 @@
 - [x] Кирилл - **8** (сдано с опозданием)
 - [x] Евгений - **9**
 - [x] Олег - **7**
+- [x] Алексей - **8**
 
 
 ## Практика 2. [Введение в HTML](HTML-bases.md)
@@ -39,3 +40,4 @@
 - [ ] Кирилл
 - [ ] Евгений
 - [ ] Олег
+- [ ] Алексей
