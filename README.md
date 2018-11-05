@@ -24,3 +24,6 @@
 ## 5. Продвинутый HTML
 [Презентация](https://docs.google.com/presentation/d/1DOHVcTDGGR2L0QjvXatpW5fyryKqAgU9T7Z7doGmSlc)
 [Домашнее задание](HTML-advance.md)
+
+## 6. Основы CSS
+[Презентация](https://docs.google.com/presentation/d/1huSLQsHdKkCrs6KYtgcmBAS3RRfe7Ek7UaLsQdfCCUw)
