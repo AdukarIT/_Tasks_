@@ -27,3 +27,6 @@
 
 ## 6. Основы CSS
 [Презентация](https://docs.google.com/presentation/d/1huSLQsHdKkCrs6KYtgcmBAS3RRfe7Ek7UaLsQdfCCUw)
+
+## 7. CSS. Позиционирование
+[Презентация](https://docs.google.com/presentation/d/1PUiDnuZE8my7XEk9k0Fxknmal24LbUkk3JXphy9hQKs)
