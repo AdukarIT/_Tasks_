@@ -30,3 +30,6 @@
 
 ## 7. CSS. Позиционирование
 [Презентация](https://docs.google.com/presentation/d/1PUiDnuZE8my7XEk9k0Fxknmal24LbUkk3JXphy9hQKs)
+
+## 8. Float. Псевдоклассы и составные селекторы
+[Презентация](https://docs.google.com/presentation/d/1ujoKUHYsQb0vSYQl9nym4BaF3wx_zpPNWen7915vXjQ)
