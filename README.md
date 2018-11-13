@@ -33,3 +33,4 @@
 
 ## 8. Float. Псевдоклассы и составные селекторы
 [Презентация](https://docs.google.com/presentation/d/1ujoKUHYsQb0vSYQl9nym4BaF3wx_zpPNWen7915vXjQ)
+[Домашнее задание](CSS-blocks.md)
