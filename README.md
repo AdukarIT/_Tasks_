@@ -34,3 +34,6 @@
 ## 8. Float. Псевдоклассы и составные селекторы
 [Презентация](https://docs.google.com/presentation/d/1ujoKUHYsQb0vSYQl9nym4BaF3wx_zpPNWen7915vXjQ)
 [Домашнее задание](CSS-blocks.md)
+
+## 9. Свойства видимости. Именование классов. БЭМ
+[Презентация](https://docs.google.com/presentation/d/1HXSQyl1hmq8iu_3iuILVfSfVacxkFJrNpUP1A-5fkws)
