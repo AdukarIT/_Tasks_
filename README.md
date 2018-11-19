@@ -37,3 +37,6 @@
 
 ## 9. Свойства видимости. Именование классов. БЭМ
 [Презентация](https://docs.google.com/presentation/d/1HXSQyl1hmq8iu_3iuILVfSfVacxkFJrNpUP1A-5fkws)
+
+## 10. Изображения. Шрифты и иконки
+[Презентация](https://docs.google.com/presentation/d/1SZnfA0SogjtcTOVRmY5m7oBhfN5lGjqNLT94wgEyxO4)
