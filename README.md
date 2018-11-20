@@ -40,3 +40,4 @@
 
 ## 10. Изображения. Шрифты и иконки
 [Презентация](https://docs.google.com/presentation/d/1SZnfA0SogjtcTOVRmY5m7oBhfN5lGjqNLT94wgEyxO4)
+[Домашнее задание](CSS-styles.md)
