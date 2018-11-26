@@ -41,3 +41,9 @@
 ## 10. Изображения. Шрифты и иконки
 [Презентация](https://docs.google.com/presentation/d/1SZnfA0SogjtcTOVRmY5m7oBhfN5lGjqNLT94wgEyxO4)
 [Домашнее задание](CSS-styles.md)
+
+## 11. Практика
+
+## 12. Flexbox
+[Презентация](https://docs.google.com/presentation/d/1uvritHChu3DRu4Vxc6Uaev0Pve5S62FMbcjfd_T3UF0)
+[Домашнее задание](flexbox.pdf)
