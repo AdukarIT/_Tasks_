@@ -47,3 +47,6 @@
 ## 12. Flexbox
 [Презентация](https://docs.google.com/presentation/d/1uvritHChu3DRu4Vxc6Uaev0Pve5S62FMbcjfd_T3UF0)
 [Домашнее задание](flexbox.pdf)
+
+## 13. Адаптивная вёрстка
+[Презентация](https://docs.google.com/presentation/d/1VWI4JaSgtbHJfAikTuRdNa9Auoy8gdZSgSqKJMG47D8)
