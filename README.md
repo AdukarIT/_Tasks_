@@ -50,3 +50,6 @@
 
 ## 13. Адаптивная вёрстка
 [Презентация](https://docs.google.com/presentation/d/1VWI4JaSgtbHJfAikTuRdNa9Auoy8gdZSgSqKJMG47D8)
+
+## 14. Эффекты. Анимация
+[Презентация](https://docs.google.com/presentation/d/1cXShniDBfzZtsRLhgllJOQ7pk2FPp_fzNjYiWooedhc)
