@@ -53,3 +53,6 @@
 
 ## 14. Эффекты. Анимация
 [Презентация](https://docs.google.com/presentation/d/1cXShniDBfzZtsRLhgllJOQ7pk2FPp_fzNjYiWooedhc)
+
+## 16. SCSS
+[Презентация](https://docs.google.com/presentation/d/1wMMlNM8AO6aAoxyReBEHt67owfxOrgt-1CIoK6r_SQQ)
