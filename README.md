@@ -59,3 +59,7 @@
 
 ## 16. SCSS
 [Презентация](https://docs.google.com/presentation/d/1wMMlNM8AO6aAoxyReBEHt67owfxOrgt-1CIoK6r_SQQ)
+
+## 17. node.js + npm + sass
+[Презентация](https://docs.google.com/presentation/d/17_Qek7Bd5Z8TFCkc2uhYc_bELh20hXCCc3DjsEwRq4k)
+[Домашнее задание](SCSS.md)
