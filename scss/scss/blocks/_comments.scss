@@ -1,0 +1,11 @@
+.comments {
+  margin: 2em 0;
+
+  h2 {
+    @include header();
+  }
+
+  .comments__list {
+    margin: 0px 4em;
+  }
+}

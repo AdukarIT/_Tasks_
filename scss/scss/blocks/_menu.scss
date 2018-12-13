@@ -1,0 +1,26 @@
+.menu {
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+
+  .menu__item {
+    padding: 1em 2em;
+    border-left: 1px solid #aaa;
+    font-family: $font-controls;
+    text-decoration: none;
+    font-weight: 700;
+    color: #666;
+    transition: color .3s ease-out;
+
+    &:last-child {
+      border-right: 1px solid #aaa;
+    }
+
+    &:hover {
+      color: #000;
+    }
+  }
+
+
+}

@@ -1,0 +1,18 @@
+.devices {
+  margin: 2em 0;
+
+  h2 {
+    @include header();
+  }
+
+  .devices__list {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+
+    .devices__list-item {
+      margin: .5em 0;
+      font-size: 60px;
+    }
+  }
+}

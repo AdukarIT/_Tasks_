@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto");
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+}
+.menu .menu__item {
+  padding: 1em 2em;
+  border-left: 1px solid #aaa;
+  font-family: "Arial", sans-serif;
+  text-decoration: none;
+  font-weight: 700;
+  color: #666;
+  transition: color 0.3s ease-out;
+}
+.menu .menu__item:last-child {
+  border-right: 1px solid #aaa;
+}
+.menu .menu__item:hover {
+  color: #000;
+}
+
+.services {
+  margin: 1.5em 0;
+}
+.services h2 {
+  margin: 0.5em 0;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+.services .services__list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.services .services__list .services__list-item {
+  border: 3px solid #333;
+  padding: 2em 1em;
+}
+.services .services__pricelist {
+  margin: 1.5em;
+  text-align: center;
+}
+
+.header {
+  background-image: linear-gradient(#fff, #ccc);
+  color: #333;
+  border-bottom: 1px solid #aaa;
+}
+.header .header__brand {
+  margin: 0.5em 0;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  padding: 1em;
+}
+
+.devices {
+  margin: 2em 0;
+}
+.devices h2 {
+  margin: 0.5em 0;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+.devices .devices__list {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+.devices .devices__list .devices__list-item {
+  margin: 0.5em 0;
+  font-size: 60px;
+}
+
+.contacts {
+  padding: 2em 0.5em;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.contacts .contacts__phones {
+  display: flex;
+  flex-flow: column nowrap;
+  padding-left: 5em;
+}
+.contacts .contacts__phones a {
+  color: #fff;
+  text-decoration: none;
+}
+.contacts .contacts__worktime {
+  font-weight: 100;
+}
+.contacts .contacts__address {
+  padding-bottom: 2px;
+  border-bottom: 1px dashed #fff;
+  cursor: help;
+}
+
+.comments {
+  margin: 2em 0;
+}
+.comments h2 {
+  margin: 0.5em 0;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+.comments .comments__list {
+  margin: 0px 4em;
+}
+
+.comment {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3em;
+}
+.comment .comment__user {
+  text-align: center;
+  width: 200px;
+}
+.comment .comment__user .comment__photo {
+  width: 100px;
+  border-radius: 50%;
+}
+.comment .comment__user .comment__name {
+  display: block;
+}
+.comment .comment__text {
+  padding-left: 5em;
+  width: calc(100% - 200px);
+}
+
+/*# sourceMappingURL=main.css.map */

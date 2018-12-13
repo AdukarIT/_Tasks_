@@ -1,0 +1,23 @@
+.services {
+  margin: 1.5em 0;
+
+  h2 {
+    @include header();
+  }
+
+  .services__list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+
+    .services__list-item {
+      border: 3px solid #333;
+      padding: 2em 1em;
+    }
+  }
+
+  .services__pricelist {
+    margin: 1.5em;
+    text-align: center;
+  }
+}

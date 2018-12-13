@@ -1,0 +1,25 @@
+.comment {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3em;
+
+  .comment__user {
+    text-align: center;
+    width: 200px;
+
+    .comment__photo {
+      width: 100px;
+      border-radius: 50%;
+    }
+
+    .comment__name {
+      display: block;
+    }
+  }
+
+  .comment__text {
+    padding-left: 5em;
+    width: calc(100% - 200px);
+  }
+}

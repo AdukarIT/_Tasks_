@@ -1,0 +1,8 @@
+@import "_reset";
+@import "_fonts";
+
+@mixin header() {
+  margin: .5em 0;
+  font-family: $font-headers;
+  text-align: center;
+}

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+$font-headers: "Open Sans", sans-serif;
+$font-text: "Roboto", sans-serif;
+$font-controls: "Arial", sans-serif;
+
+* {
+  font-family: $font-text;
+}

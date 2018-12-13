@@ -1,0 +1,29 @@
+.contacts {
+  padding: 2em 0.5em;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .contacts__phones {
+    display: flex;
+    flex-flow: column nowrap;
+    padding-left: 5em;
+
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+
+  .contacts__worktime {
+    font-weight: 100;
+  }
+
+  .contacts__address {
+    padding-bottom: 2px;
+    border-bottom: 1px dashed #fff;
+    cursor: help;
+  }
+}
