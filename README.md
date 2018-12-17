@@ -63,3 +63,6 @@
 ## 17. node.js + npm + sass
 [Презентация](https://docs.google.com/presentation/d/17_Qek7Bd5Z8TFCkc2uhYc_bELh20hXCCc3DjsEwRq4k)
 [Домашнее задание](SCSS.md)
+
+## 18. Bootstrap
+[Презентация](https://docs.google.com/presentation/d/1g8LlwOUmceSIHV6wM_qIQ4ANwvx9G02g_ywNkSHZG9o)
