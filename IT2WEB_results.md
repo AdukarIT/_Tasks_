@@ -7,7 +7,7 @@
 * [Казимир Гурецкий](https://github.com/AdukarIT/GureckyjKV)
 * [Елена Добровская](https://github.com/AdukarIT/DobrovskayaEF)
 * ~[Павел Сманцер](https://github.com/AdukarIT/SmanzerPL)~
-* [Наталья](https://github.com/AdukarIT/)
+* [Наталья](https://github.com/AdukarIT/AbramovichNV)
 
 
 ## Практика 1. [Введение в веб-разработку](task1.pdf)
@@ -91,3 +91,18 @@
 - [ ] Казимир **(-1 балл за пропуск дедлайна)**
 - [x] Елена **10**
 - [ ] Наталья
+
+
+## Практика 8. [SCSS](SCSS.md)
+
+*Дедлайн: 20.12.2018 23:59*
+
+- [ ] Виталий
+- [ ] Никита
+- [ ] Дарья
+- [ ] Екатерина
+- [ ] Дмитрий
+- [ ] Кирилл
+- [ ] Евгений
+- [ ] Олег
+- [ ] Алексей
