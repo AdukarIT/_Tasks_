@@ -66,3 +66,7 @@
 
 ## 18. Bootstrap
 [Презентация](https://docs.google.com/presentation/d/1g8LlwOUmceSIHV6wM_qIQ4ANwvx9G02g_ywNkSHZG9o)
+
+## 18. CSS Grid
+[Презентация](https://docs.google.com/presentation/d/1Ms9G8tvC9-GAHGZmgHtPnFMaqfmc-0D4ih0A3NtvF8o)
+Домашнее задание
