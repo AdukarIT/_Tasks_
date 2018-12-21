@@ -69,4 +69,3 @@
 
 ## 18. CSS Grid
 [Презентация](https://docs.google.com/presentation/d/1Ms9G8tvC9-GAHGZmgHtPnFMaqfmc-0D4ih0A3NtvF8o)
-Домашнее задание
