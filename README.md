@@ -74,3 +74,7 @@
 
 ## 19. Что такое JavaScript
 [Презентация](https://docs.google.com/presentation/d/1yeGuvmcECiQprXPBxZn1774aFpoE4T8ejmfAMYe6W9o)
+
+## 20. Операторы. Циклы
+[Презентация](https://docs.google.com/presentation/d/1Gh_JjF5fCnYBDrVeKa5iC2Ug7eS8Cvgf2fThpnR6s30)
+[Домашнее задание](JS-if-switch-while-for.md)
