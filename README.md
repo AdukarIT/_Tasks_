@@ -76,7 +76,7 @@
 [Презентация](https://docs.google.com/presentation/d/1yeGuvmcECiQprXPBxZn1774aFpoE4T8ejmfAMYe6W9o)
 
 ## 20. Операторы. Циклы
-[Презентация](https://docs.google.com/presentation/d/1Gh_JjF5fCnYBDrVeKa5iC2Ug7eS8Cvgf2fThpnR6s30)
+[Презентация](https://docs.google.com/presentation/d/1lfP87hmLw7dsJJ4uWJ2EoNocoyjHIpjxmA8UM9L4SVE)
 [Домашнее задание](JS-if-switch-while-for.md)
 
 ## 21. Функции
