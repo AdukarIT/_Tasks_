@@ -82,3 +82,6 @@
 ## 21. Функции
 [Презентация](https://docs.google.com/presentation/d/1umXzk2fkPGxExqVJ9L7h-pF2oOFBGuvAKkd_Cq1Zckg)
 [Домашнее задание](JS-functions.md)
+
+## 22. Поиск ошибок и отладка кода. Практика
+[Презентация](https://docs.google.com/presentation/d/1XQCfju_2w-BBf_6mJgr2mVBRBGs4TaKKhklzMhC1hVs)
