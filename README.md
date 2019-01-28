@@ -85,3 +85,7 @@
 
 ## 22. Поиск ошибок и отладка кода. Практика
 [Презентация](https://docs.google.com/presentation/d/1XQCfju_2w-BBf_6mJgr2mVBRBGs4TaKKhklzMhC1hVs)
+
+## 23. Массивы
+[Презентация](https://docs.google.com/presentation/d/18yI352W8kpwxY1-tiQgRrft46z4-sq_L9-lhAKX7qHg)
+[Домашнее задание](JS-arrays.md)
