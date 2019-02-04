@@ -93,3 +93,7 @@
 ## 24. Объекты
 [Презентация](https://docs.google.com/presentation/d/1yS-_HMH6GnmNq3e1qJFnSt-N8tKJ5iIusUIBEdX6k5g)
 [Домашнее задание](JS-objects.md)
+
+## 25. Встроенные возможности JavaScript
+[Презентация](https://docs.google.com/presentation/d/1SImZU8pOPMVRNzDu_mBqppu2hYVi-6ODkgoksO01RI0)
+[Домашнее задание](JS-built-in.md)
