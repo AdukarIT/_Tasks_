@@ -97,3 +97,7 @@
 ## 25. Встроенные возможности JavaScript
 [Презентация](https://docs.google.com/presentation/d/1SImZU8pOPMVRNzDu_mBqppu2hYVi-6ODkgoksO01RI0)
 [Домашнее задание](JS-built-in.md)
+
+## 26. Продвинутый JavaScript
+[Презентация](https://docs.google.com/presentation/d/1AmzaXsoWTWxy-x_nlytjR5owNHHoNZZRSWcoLbuZ_00)
+[Домашнее задание](JS-advanced.md)
