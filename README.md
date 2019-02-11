@@ -101,3 +101,26 @@
 ## 26. Продвинутый JavaScript
 [Презентация](https://docs.google.com/presentation/d/1AmzaXsoWTWxy-x_nlytjR5owNHHoNZZRSWcoLbuZ_00)
 [Домашнее задание](JS-advanced.md)
+
+## 27. DOM. Работа со страницей
+[Презентация](https://docs.google.com/presentation/u/1/d/1-Is-_GTi2g-a56p_yghBos3MQCjUVmlQG8QYetpQPME)
+[Домашнее задание](JS-dom.md)
+
+## 28. События. Координаты на странице
+[Презентация](https://docs.google.com/presentation/u/1/d/1MsMb2dNidpGELmB2HN4IVoZG5FqlI0HwCwVfc_XWnsQ)
+[Домашнее задание](JS-events.md)
+
+## 29. Формы
+[Презентация](https://docs.google.com/presentation/d/1rCZRsO6LkJ3wB82hfMHEUF_zVlM8VVRb9zSDxtrZzfU)
+[Домашнее задание](JS-forms.md)
+
+## 30. ООП в Javascript
+[Презентация](https://docs.google.com/presentation/u/1/d/1o8DGREJlXjfjXRDIvrM4Xdw0X59hx3PCmR7IOIuQMGg)
+[Домашнее задание](JS-oop.md)
+
+## 31. Взаимодействие с сервером
+[Презентация](https://docs.google.com/presentation/u/1/d/1bQi21tQ8MEafJaUu4U1By82ie3ZDjGRKybyCR-CtRvA)
+
+## 32. Сборщик Webpack
+[Презентация](https://docs.google.com/presentation/u/1/d/1f_cV0pBDuraqO0gNzayU7hu0WeKmKFM3RG93lC0k0dM)
+
