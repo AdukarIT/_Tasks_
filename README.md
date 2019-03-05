@@ -124,3 +124,5 @@
 ## 32. Сборщик Webpack
 [Презентация](https://docs.google.com/presentation/u/1/d/1f_cV0pBDuraqO0gNzayU7hu0WeKmKFM3RG93lC0k0dM)
 
+## 33. Библиотека jQuery
+[Презентация](https://docs.google.com/presentation/d/1CX7-yhz8dRUONKtE4Vgc7mTfSe-tB3yHvNwzLhM25Fg/)
