@@ -129,3 +129,7 @@
 
 ## 34. Библиотека jQuery. AJAX и анимации
 [Презентация](https://docs.google.com/presentation/d/17RO-WUcCZJjDT-9gpqnrKsCbrjlq_gZSzk3iyd12BXg/)
+
+## 34. Библиотека jQuery. AJAX и анимации
+[Презентация](https://docs.google.com/presentation/d/1iCvHenfV0zjlZym6ygLT2po3ZJy43Z7a5_FT6yn8LYI/)
+[Домашнее задание](JS-jquery-plugins.md)
