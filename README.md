@@ -133,3 +133,6 @@
 ## 35. Библиотека jQuery. Плагины
 [Презентация](https://docs.google.com/presentation/d/1iCvHenfV0zjlZym6ygLT2po3ZJy43Z7a5_FT6yn8LYI/)
 [Домашнее задание](JS-jquery-plugins.md)
+
+## 36. ES6. Babel
+[Презентация](https://docs.google.com/presentation/d/1Kz360P7nn-QIBVjMhot33sunbj8c09YDLlltMfysZWw/)
