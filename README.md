@@ -136,3 +136,6 @@
 
 ## 36. ES6. Babel
 [Презентация](https://docs.google.com/presentation/d/1Kz360P7nn-QIBVjMhot33sunbj8c09YDLlltMfysZWw/)
+
+## 37. JS API: Audio, Video, Canvas
+[Презентация](https://docs.google.com/presentation/d/1iaCRGultvvuDB6iTweVOtczxv13DeGAFi68g02xstU0/)
