@@ -139,3 +139,7 @@
 
 ## 37. JS API: Audio, Video, Canvas
 [Презентация](https://docs.google.com/presentation/d/1iaCRGultvvuDB6iTweVOtczxv13DeGAFi68g02xstU0/)
+
+## 38. JS API: Geolocation, Storage, Cookie, History
+[Презентация](https://docs.google.com/presentation/d/1sofy3MU2r5u3ACdwEU9u3ytVgq_5qLVD-yEN6u9W_vY/)
+https://docs.google.com/presentation/d/1sofy3MU2r5u3ACdwEU9u3ytVgq_5qLVD-yEN6u9W_vY/edit?usp=sharing
