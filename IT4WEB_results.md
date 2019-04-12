@@ -139,15 +139,44 @@
 - [x] Юлия - принято
 - [x] Андрей - принято
 - [x] Максим - принято
-- [ ] Екатерина - 
+- [x] Екатерина - принято
 
 
 ## JS практика 3. [Ещё 16 задач](https://docs.google.com/presentation/d/1XQCfju_2w-BBf_6mJgr2mVBRBGs4TaKKhklzMhC1hVs)
 
-*Дедлайн: 09.02.2019 23:59*
+*Дедлайн: 09.04.2019 23:59*
+
+- [x] Юлия - принято
+- [ ] Андрей - (-1 за опоздание)
+- [x] Максим - принято
+- [x] Екатерина - принято
 
 
 ## JS практика 4. [Массивы](https://github.com/AdukarIT/_Tasks_/blob/master/JS-arrays.md)
 
-*Дедлайн: 09.02.2019 23:59*
+*Дедлайн: 09.04.2019 23:59*
 
+- [x] Юлия - принято
+- [ ] Андрей - (-1 за опоздание)
+- [ ] Максим - (-1 за опоздание)
+- [x] Екатерина - принято
+
+
+## JS практика 5. [Объекты](https://github.com/AdukarIT/_Tasks_/blob/master/JS-objects.md)
+
+*Дедлайн: 16.04.2019 23:59*
+
+
+## JS практика 6. [Встроенные возможности JS](https://github.com/AdukarIT/_Tasks_/blob/master/JS-built-in.md)
+
+*Дедлайн: 16.04.2019 23:59*
+
+
+## JS практика 7. [Продвинутый JS](https://github.com/AdukarIT/_Tasks_/blob/master/JS-advanced.md)
+
+*Дедлайн: 23.04.2019 23:59*
+
+
+## JS практика 8. [DOM](https://github.com/AdukarIT/_Tasks_/blob/master/JS-dom.md)
+
+*Дедлайн: 23.04.2019 23:59*
