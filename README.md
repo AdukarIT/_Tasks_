@@ -144,4 +144,4 @@
 [Презентация](https://docs.google.com/presentation/d/1sofy3MU2r5u3ACdwEU9u3ytVgq_5qLVD-yEN6u9W_vY/)
 
 ## 39. JS API: Forms, Drag and Drop, Messaging
-[Презентация]https://docs.google.com/presentation/d/1ZzkmaOtAc8v8WiA__BcHq_wb16tKL7A_Lb002tUB8F4/)
+[Презентация](https://docs.google.com/presentation/d/1ZzkmaOtAc8v8WiA__BcHq_wb16tKL7A_Lb002tUB8F4/)
