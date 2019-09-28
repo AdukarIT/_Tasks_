@@ -36,31 +36,30 @@
 
 1. 
 	http://demo.themeton.com/nrgbusiness/welcome/
-	
+
 	http://demo.themeton.com/nrgbusiness/
-	
+
 	http://demo.themeton.com/nrgbusiness/blog/
 	
 2. 
 	http://themesquared.com/shield/
-	
+
 	http://themesquared.com/shield/contact-1/
-	
+
 	http://themesquared.com/shield/blog/
 	
 3. 
 	http://w-gear.torbara.com/
-	
+
 	http://w-gear.torbara.com/shop
-	
+
 	http://w-gear.torbara.com/contact-us/
 	
 4.
 	https://www.berlin.de/
-	
+
 	https://www.berlin.de/tickets/theater/tipps/buehnen/musical-und-showtheater/
 	
-
 5. 
 	https://www.stpaulsschool.org.uk/
 
@@ -70,8 +69,6 @@
 
 6.
 	https://cacaotour.com/
-
-	https://cacaotour.com/kah-kow-tours/
 
 	https://cacaotour.com/kah-kow-tours/
 
@@ -88,5 +85,40 @@
 	https://www.anderssonwise.com/
 
 	https://www.anderssonwise.com/projects/
-
+	
 	https://www.anderssonwise.com/news/filter/all
+
+9.
+	https://aneventapart.com/
+	
+	https://aneventapart.com/who-attends
+	
+	https://aneventapart.com/news/resources
+
+10.
+	https://www.worldwildlife.org/
+	
+	https://www.worldwildlife.org/species
+	
+	https://www.worldwildlife.org/places/arctic
+
+11.
+	https://bonobos.com/
+	
+	https://bonobos.com/shop/clothing/sweaters-sweatshirts/sweatshirts
+	
+	https://bonobos.com/about
+
+12.
+	https://tattly.com/
+	
+	https://tattly.com/collections/tea-leigh
+	
+	https://tattly.com/blogs/blog
+
+13.
+	https://www.brewdog.com/uk/
+	
+	https://www.brewdog.com/uk/brewdog-elvis-juice
+	
+	https://www.brewdog.com/uk/responsibility
