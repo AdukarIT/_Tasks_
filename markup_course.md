@@ -122,3 +122,52 @@
 	https://www.brewdog.com/uk/brewdog-elvis-juice
 	
 	https://www.brewdog.com/uk/responsibility
+
+14.
+	https://www.bmw.com/en/index.html
+
+	https://www.bmw.com/en/automotive-life/berlin-wall-escapes-in-a-bmw-isetta.html
+
+	https://www.bmw.com/en/bmw-models/2-series-gran-coupe.html
+
+15.
+	https://www.wired.co.uk/
+
+	https://www.wired.co.uk/article/christmas-gift-ideas-2019
+
+	https://www.wired.co.uk/article/samsung-galaxy-fold-review
+
+16.
+	https://www.nichols.edu/
+
+	https://www.nichols.edu/about
+
+	https://alumni.nichols.edu/
+
+17.
+	https://www.swiss.com/ch/en
+
+	https://www.swiss.com/explore/EN
+
+	https://www.swiss.com/ch/EN/book/offers
+
+18.
+	https://new.artsmia.org/
+
+	https://new.artsmia.org/art-artists/
+
+	https://new.artsmia.org/join-and-invest/impact-stories/
+
+19.
+	https://www.starbucks.com/
+
+	https://www.starbucks.com/menu
+	
+	https://stories.starbucks.com/
+
+20.
+	https://www.vam.ac.uk/
+
+	https://www.vam.ac.uk/info/about-us
+
+	https://www.vam.ac.uk/exhibitions/mary-quant
