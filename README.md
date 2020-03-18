@@ -145,3 +145,10 @@
 
 ## 39. JS API: Forms, Drag and Drop, Messaging
 [Презентация](https://docs.google.com/presentation/d/1ZzkmaOtAc8v8WiA__BcHq_wb16tKL7A_Lb002tUB8F4/)
+
+
+# Web_2020
+
+## 4. Формы. Продвинутый HTML
+[Презентация](https://docs.google.com/presentation/d/1B7GfnKnFNWmcSOUDwFebyjLUJKhT4YbYA8YgVrJWND4)
+[Домашнее задание](homeworks/HTML-advance.md)
