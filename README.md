@@ -152,3 +152,6 @@
 ## 4. Формы. Продвинутый HTML
 [Презентация](https://docs.google.com/presentation/d/1B7GfnKnFNWmcSOUDwFebyjLUJKhT4YbYA8YgVrJWND4)
 [Домашнее задание](homeworks/HTML-advance.md)
+
+## 5. Введение в CSS
+[Презентация](https://docs.google.com/presentation/d/1gYiitrq-vvtLipHDg6aDO9Er2QRrRKGzN3bn9vTJIzk)
