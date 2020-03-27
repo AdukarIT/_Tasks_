@@ -155,3 +155,6 @@
 
 ## 5. Введение в CSS
 [Презентация](https://docs.google.com/presentation/d/1gYiitrq-vvtLipHDg6aDO9Er2QRrRKGzN3bn9vTJIzk)
+
+## 6. CSS. Блочная модель. Позиционирование
+[Презентация](https://docs.google.com/presentation/d/1eD0Z5AaLocqRZRstE4Deov9RDTsY5BphlyoYwlKFAEo)
