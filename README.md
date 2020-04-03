@@ -33,7 +33,7 @@
 
 ## 8. Float. Псевдоклассы и составные селекторы
 [Презентация](https://docs.google.com/presentation/d/1ujoKUHYsQb0vSYQl9nym4BaF3wx_zpPNWen7915vXjQ)
-[Домашнее задание](CSS-blocks.md)
+[Домашнее задание](homeworks/CSS-blocks.md)
 
 ## 9. Свойства видимости. Именование классов. БЭМ
 [Презентация](https://docs.google.com/presentation/d/1HXSQyl1hmq8iu_3iuILVfSfVacxkFJrNpUP1A-5fkws)
@@ -158,3 +158,9 @@
 
 ## 6. CSS. Блочная модель. Позиционирование
 [Презентация](https://docs.google.com/presentation/d/1eD0Z5AaLocqRZRstE4Deov9RDTsY5BphlyoYwlKFAEo)
+
+## 7. CSS. Практика
+
+## 8. CSS. Float. Псевдоклассы. Сложные селекторы. Каскад
+[Презентация](https://docs.google.com/presentation/d/18RtWMsvRhZA-L7z_EuzSVGMWufY_wMVb0FsN3QBOdTo)
+[Домашнее задание](homeworks/CSS-blocks.md)
