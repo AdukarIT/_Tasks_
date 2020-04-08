@@ -164,3 +164,6 @@
 ## 8. CSS. Float. Псевдоклассы. Сложные селекторы. Каскад
 [Презентация](https://docs.google.com/presentation/d/18RtWMsvRhZA-L7z_EuzSVGMWufY_wMVb0FsN3QBOdTo)
 [Домашнее задание](homeworks/CSS-blocks.md)
+
+## 9. CSS. Видимость элементов. Именование классов. Методологии CSS. БЭМ
+[Презентация](https://docs.google.com/presentation/d/10Qgg_VqopIKhucOBcTu1cdSr2hG7003eWOkA6lJYDm0)
