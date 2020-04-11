@@ -168,5 +168,6 @@
 ## 9. CSS. Видимость элементов. Именование классов. Методологии CSS. БЭМ
 [Презентация](https://docs.google.com/presentation/d/10Qgg_VqopIKhucOBcTu1cdSr2hG7003eWOkA6lJYDm0)
 
-## 10. Изображения. Шрифты и иконки
+## 10. Изображения. Шрифты
 [Презентация](https://docs.google.com/presentation/d/1kf049V64KD4OMDeNqOoQMU-lBKsA9e6iUewlbPSHsYA)
+[Домашнее задание](homeworks/CSS-styles.md)
