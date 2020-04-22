@@ -177,3 +177,6 @@
 ## 12. Flexbox
 [Презентация](https://docs.google.com/presentation/d/1JKWht2b9yemfdODOoGnpA0MRkkKL5vOQe7z_kuCWFno)
 [Домашнее задание](homeworks/flexbox.pdf)
+
+## 13. Адаптивная вёрстка
+[Презентация](https://docs.google.com/presentation/d/1D4ffcjrbguXP1uNg4iXNb5qDXEe81JNfVNUCcNZxRRY)
