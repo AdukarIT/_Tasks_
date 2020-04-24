@@ -53,7 +53,7 @@
 
 ## 14. Эффекты. Анимация
 [Презентация](https://docs.google.com/presentation/d/1cXShniDBfzZtsRLhgllJOQ7pk2FPp_fzNjYiWooedhc)
-[Домашнее задание](CSS-transition.md)
+[Домашнее задание](homeworks/CSS-transition.md)
 
 ## 15. Тест по CSS
 
@@ -180,3 +180,7 @@
 
 ## 13. Адаптивная вёрстка
 [Презентация](https://docs.google.com/presentation/d/1D4ffcjrbguXP1uNg4iXNb5qDXEe81JNfVNUCcNZxRRY)
+
+## 14. Трансформация и анимация
+[Презентация](https://docs.google.com/presentation/d/1qhtek68M1m74GwuPBBfgZxaC0S8AvTgRlsfNxptF6XI)
+[Домашнее задание](homeworks/CSS-transition.md)
