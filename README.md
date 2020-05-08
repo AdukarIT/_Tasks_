@@ -186,6 +186,7 @@
 [Домашнее задание](homeworks/CSS-transition.md)
 
 ## 15. CSS. Практика
+[Итоговая работа по вёрстке](markup_course.md)
 
 ## 16. SCSS
 [Презентация](https://docs.google.com/presentation/d/1wMMlNM8AO6aAoxyReBEHt67owfxOrgt-1CIoK6r_SQQ)
