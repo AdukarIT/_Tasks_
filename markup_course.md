@@ -117,11 +117,11 @@
 	https://tattly.com/blogs/blog
 
 13.
-	https://www.brewdog.com/uk/
+	https://www.starbucks.com/
+
+	https://www.starbucks.com/menu
 	
-	https://www.brewdog.com/uk/brewdog-elvis-juice
-	
-	https://www.brewdog.com/uk/responsibility
+	https://stories.starbucks.com/
 
 14.
 	https://www.bmw.com/en/index.html
@@ -159,11 +159,11 @@
 	https://new.artsmia.org/join-and-invest/impact-stories/
 
 19.
-	https://www.starbucks.com/
-
-	https://www.starbucks.com/menu
+	https://www.brewdog.com/uk/
 	
-	https://stories.starbucks.com/
+	https://www.brewdog.com/uk/brewdog-elvis-juice
+	
+	https://www.brewdog.com/uk/responsibility
 
 20.
 	https://www.vam.ac.uk/
@@ -171,3 +171,17 @@
 	https://www.vam.ac.uk/info/about-us
 
 	https://www.vam.ac.uk/exhibitions/mary-quant
+
+21.
+	https://eu.suitsupply.com/en/home
+
+	https://eu.suitsupply.com/en/contemporary-suits
+
+	https://eu.suitsupply.com/en/content-page-service-delivery-time-and-cost.html
+
+22.
+	https://www.ableton.com/en/
+
+	https://www.ableton.com/en/about/
+
+	https://www.ableton.com/en/shop/education/

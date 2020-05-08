@@ -184,3 +184,8 @@
 ## 14. Трансформация и анимация
 [Презентация](https://docs.google.com/presentation/d/1qhtek68M1m74GwuPBBfgZxaC0S8AvTgRlsfNxptF6XI)
 [Домашнее задание](homeworks/CSS-transition.md)
+
+## 15. CSS. Практика
+
+## 16. SCSS
+[Презентация](https://docs.google.com/presentation/d/1wMMlNM8AO6aAoxyReBEHt67owfxOrgt-1CIoK6r_SQQ)
