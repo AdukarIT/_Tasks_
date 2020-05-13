@@ -190,3 +190,6 @@
 
 ## 16. SCSS
 [Презентация](https://docs.google.com/presentation/d/1wMMlNM8AO6aAoxyReBEHt67owfxOrgt-1CIoK6r_SQQ)
+
+## 17. CSS Grid
+[Презентация](https://docs.google.com/presentation/d/1jly-QbH0O0O9UovC3cy4yfn02GBh9ONcjSAVRKTM52Q)
