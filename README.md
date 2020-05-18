@@ -193,3 +193,8 @@
 
 ## 17. CSS Grid
 [Презентация](https://docs.google.com/presentation/d/1jly-QbH0O0O9UovC3cy4yfn02GBh9ONcjSAVRKTM52Q)
+
+## 18. CSS. Практика
+
+## 19. CSS. Эффекты и фильтры
+[Презентация](https://docs.google.com/presentation/d/1xRbsyupkxVfjk_rygSIVgkPVaVg8k25tJnCiHKw8Y-U)
