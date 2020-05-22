@@ -198,3 +198,8 @@
 
 ## 19. CSS. Эффекты и фильтры
 [Презентация](https://docs.google.com/presentation/d/1xRbsyupkxVfjk_rygSIVgkPVaVg8k25tJnCiHKw8Y-U)
+
+## 20. CSS. Практика
+
+## 21. Bootstrap
+[Презентация](https://docs.google.com/presentation/d/1b_47tD8IdGxg0xh4FhN0x6wM18QRNmpm1lsXPzc8cho)
