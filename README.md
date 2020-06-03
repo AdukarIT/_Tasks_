@@ -203,3 +203,12 @@
 
 ## 21. Bootstrap
 [Презентация](https://docs.google.com/presentation/d/1b_47tD8IdGxg0xh4FhN0x6wM18QRNmpm1lsXPzc8cho)
+
+## 22. CSS. Практика
+
+## 23. Что такое JavaScript
+[Презентация](https://docs.google.com/presentation/d/1yeGuvmcECiQprXPBxZn1774aFpoE4T8ejmfAMYe6W9o)
+
+## 24. Операторы. Циклы
+[Презентация](https://docs.google.com/presentation/d/1lfP87hmLw7dsJJ4uWJ2EoNocoyjHIpjxmA8UM9L4SVE)
+[Домашнее задание](homeworks/JS-if-switch-while-for.md)
