@@ -212,3 +212,7 @@
 ## 24. Операторы. Циклы
 [Презентация](https://docs.google.com/presentation/d/1lfP87hmLw7dsJJ4uWJ2EoNocoyjHIpjxmA8UM9L4SVE)
 [Домашнее задание](homeworks/JS-if-switch-while-for.md)
+
+## 25. Функции
+[Презентация](https://docs.google.com/presentation/d/1umXzk2fkPGxExqVJ9L7h-pF2oOFBGuvAKkd_Cq1Zckg)
+[Домашнее задание](homeworks/JS-functions.md)
