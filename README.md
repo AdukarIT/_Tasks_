@@ -206,13 +206,22 @@
 
 ## 22. CSS. Практика
 
-## 23. Что такое JavaScript
+## 23. Защита проектов по HTML/CSS
+
+## 24. Что такое JavaScript
 [Презентация](https://docs.google.com/presentation/d/1yeGuvmcECiQprXPBxZn1774aFpoE4T8ejmfAMYe6W9o)
 
-## 24. Операторы. Циклы
+## 25. Операторы. Циклы
 [Презентация](https://docs.google.com/presentation/d/1lfP87hmLw7dsJJ4uWJ2EoNocoyjHIpjxmA8UM9L4SVE)
 [Домашнее задание](homeworks/JS-if-switch-while-for.md)
 
-## 25. Функции
+## 26. Функции
 [Презентация](https://docs.google.com/presentation/d/1umXzk2fkPGxExqVJ9L7h-pF2oOFBGuvAKkd_Cq1Zckg)
 [Домашнее задание](homeworks/JS-functions.md)
+
+## 27. Поиск ошибок и отладка кода. Практика
+[Презентация](https://docs.google.com/presentation/d/1dSI8fqQUK6mPtATsvAM2bYHscOOsl_63g2QIbMHv3iA)
+
+## 28. Массивы
+[Презентация](https://docs.google.com/presentation/d/18yI352W8kpwxY1-tiQgRrft46z4-sq_L9-lhAKX7qHg)
+[Домашнее задание](JS-arrays.md)
