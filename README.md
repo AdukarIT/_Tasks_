@@ -225,3 +225,7 @@
 ## 28. Массивы
 [Презентация](https://docs.google.com/presentation/d/18yI352W8kpwxY1-tiQgRrft46z4-sq_L9-lhAKX7qHg)
 [Домашнее задание](JS-arrays.md)
+
+## 29. Объекты
+[Презентация](https://docs.google.com/presentation/d/1yS-_HMH6GnmNq3e1qJFnSt-N8tKJ5iIusUIBEdX6k5g)
+[Домашнее задание](homeworks/JS-objects.md)
