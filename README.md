@@ -233,3 +233,9 @@
 ## 30. Встроенные возможности JavaScript
 [Презентация](https://docs.google.com/presentation/d/1KOss8JnpB5dCsvz2h7kgfzK5xNnEfMgWDRpiELwGPLU)
 [Домашнее задание](homeworks/JS-built-in.md)
+
+## 31. JS. практика
+
+## 32. Продвинутый JS I. Замыкания. Методы массивов с функциями обратного вызова
+[Презентация](https://docs.google.com/presentation/d/1ye9xMYRilUx6BtlIsVEJros42QTDdZFSwY3MoRqViUM)
+[Домашнее задание](homeworks/JS-advanced-p1.md)
