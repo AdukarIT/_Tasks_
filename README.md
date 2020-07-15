@@ -239,3 +239,7 @@
 ## 32. Продвинутый JS I. Замыкания. Методы массивов с функциями обратного вызова
 [Презентация](https://docs.google.com/presentation/d/1ye9xMYRilUx6BtlIsVEJros42QTDdZFSwY3MoRqViUM)
 [Домашнее задание](homeworks/JS-advanced-p1.md)
+
+## 33. DOM. Работа со страницей
+[Презентация](https://docs.google.com/presentation/d/19z6mDXlS5-Rftg6dwevd54URZLJWddB4oKje3F_-KO4)
+[Домашнее задание](homeworks/JS-dom.md)
