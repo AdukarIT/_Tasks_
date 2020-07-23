@@ -243,3 +243,7 @@
 ## 33. DOM. Работа со страницей
 [Презентация](https://docs.google.com/presentation/d/19z6mDXlS5-Rftg6dwevd54URZLJWddB4oKje3F_-KO4)
 [Домашнее задание](homeworks/JS-dom.md)
+
+## 34. События
+[Презентация](https://docs.google.com/presentation/d/1rjPXhS6kMVOHfaHKBkh7fyIADDL_DMSnqTYbrcKacCk)
+[Домашнее задание](homeworks/JS-events.md)
