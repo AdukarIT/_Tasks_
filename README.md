@@ -234,7 +234,7 @@
 [Презентация](https://docs.google.com/presentation/d/1KOss8JnpB5dCsvz2h7kgfzK5xNnEfMgWDRpiELwGPLU)
 [Домашнее задание](homeworks/JS-built-in.md)
 
-## 31. JS. практика
+## 31. JS: практика
 
 ## 32. Продвинутый JS I. Замыкания. Методы массивов с функциями обратного вызова
 [Презентация](https://docs.google.com/presentation/d/1ye9xMYRilUx6BtlIsVEJros42QTDdZFSwY3MoRqViUM)
@@ -247,3 +247,11 @@
 ## 34. События
 [Презентация](https://docs.google.com/presentation/d/1rjPXhS6kMVOHfaHKBkh7fyIADDL_DMSnqTYbrcKacCk)
 [Домашнее задание](homeworks/JS-events.md)
+
+## 35. JS: практика
+
+## 36. Формы. Регулярные выражения
+[Презентация](https://docs.google.com/presentation/d/1YyoG0l12QzuGUl8reJyaF4mm2P5Z5gfF_DJRjS_rONo)
+
+## 37. Продвинутый JS II
+[Презентация](https://docs.google.com/presentation/d/1hEj_WkJ_BtGCqRNJXP_6AXegXH2ZiJZkqPoOEBZPSkI)
