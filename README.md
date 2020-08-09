@@ -255,3 +255,8 @@
 
 ## 37. Продвинутый JS II
 [Презентация](https://docs.google.com/presentation/d/1hEj_WkJ_BtGCqRNJXP_6AXegXH2ZiJZkqPoOEBZPSkI)
+
+## 38. DOM. Работа со страницей II
+[Презентация](https://docs.google.com/presentation/d/13BJazpX_wRx5P_eQgYhtN6XbkBVN-m-CBv5IlNBccW4)
+
+## 39. JS: практика. Проекты
