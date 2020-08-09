@@ -252,6 +252,7 @@
 
 ## 36. Формы. Регулярные выражения
 [Презентация](https://docs.google.com/presentation/d/1YyoG0l12QzuGUl8reJyaF4mm2P5Z5gfF_DJRjS_rONo)
+[Домашнее задание](homeworks/JS-forms.md)
 
 ## 37. Продвинутый JS II
 [Презентация](https://docs.google.com/presentation/d/1hEj_WkJ_BtGCqRNJXP_6AXegXH2ZiJZkqPoOEBZPSkI)
