@@ -261,3 +261,7 @@
 [Презентация](https://docs.google.com/presentation/d/13BJazpX_wRx5P_eQgYhtN6XbkBVN-m-CBv5IlNBccW4)
 
 ## 39. JS: практика. Проекты
+
+
+## 42. JS API: Geolocation, Storage, Cookie, History
+[Презентация](https://docs.google.com/presentation/d/1Ek8AvTZiW-8NibQC8xCyG1-QvhEMHoWvWvaAqXtIzVM/)
