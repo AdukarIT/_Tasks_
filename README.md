@@ -262,6 +262,34 @@
 
 ## 39. JS: практика. Проекты
 
+## 40. Продвинутые методы работы с объектами. ООП в Javascript
+[Презентация](https://docs.google.com/presentation/d/1En0FdVoi8IVWntTN8b0grNe_eZc2cAC3T0CmmtMyBq0)
+
+## 41. Асинхронное программирование. Взаимодействие с сервером
+тут будет презентация
 
 ## 42. JS API: Geolocation, Storage, Cookie, History
 [Презентация](https://docs.google.com/presentation/d/1Ek8AvTZiW-8NibQC8xCyG1-QvhEMHoWvWvaAqXtIzVM/)
+
+## 43. JS: практика. Проекты
+
+## 44. Сборщик Webpack
+[Презентация](https://docs.google.com/presentation/d/1rssgF7u3bk2ZJc3BIS8SHHB3k5QkJBIKu07ZKtuu-8A)
+
+## 45. Продвинутый JS III. Babel
+[Презентация](https://docs.google.com/presentation/d/1fM8wPzLUCV4wVw4_hyRnjg-nXmf6L0kEwa24PBY53sY)
+
+## 46. JS: практика. Проекты
+
+## 47. JS API: Audio, Video, Canvas
+[Презентация](https://docs.google.com/presentation/d/1ncwjwA7B96FSKZ5pHQUgA7MalTtkR0fDZvw5LcCxj2Y/)
+
+## 48. JS: практика. Проекты
+
+## 49. Обзор популярных библиотек и фреймворков JS
+
+## 50. JS: практика. Проекты
+
+## 51. Профессиональные перспективы. Рынок труда. Резюме
+
+## 52. Итоговое занятие
